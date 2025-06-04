@@ -1,1 +1,2 @@
+clean package (task )
 **/target/surefire-reports/*.xml(build action )
